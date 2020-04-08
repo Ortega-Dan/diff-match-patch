@@ -1,0 +1,1 @@
+The C++ port was created with a dependency on the Qt library.  As a result this version is very slow.  We are no longer maintaining this version of Diff Match Patch and would welcome anyone interested in creating a replacement version which uses the STL instead.
